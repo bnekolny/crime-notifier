@@ -1,0 +1,6 @@
+alembic
+psycopg2
+SQLAlchemy
+dj-static
+dj-database-url
+django
