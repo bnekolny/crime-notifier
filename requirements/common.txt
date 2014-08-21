@@ -4,3 +4,4 @@ SQLAlchemy
 dj-static
 dj-database-url
 django
+requests
